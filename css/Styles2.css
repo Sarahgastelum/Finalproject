@@ -55,7 +55,7 @@ h1, h2, h3, h4, h5, h6{
 }
 .box-model{
     padding: 15px;
-    background-color:rgb(0, 21, 255);
+   background-color:rgb(111, 192, 103);
     border: 5px solid rgb(79, 178, 124);
     margin: 20px;
 }
